@@ -20,12 +20,12 @@ This file demonstrates a basic server-client communication using sockets in C wi
 
 ```bash
 ./servermt
-
+```
 
 2.Running Client: Open another bash and write the command 
 ```bash
 ./client
-
+```
 
 ## Functionality
 
